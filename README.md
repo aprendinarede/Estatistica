@@ -1,5 +1,7 @@
 # Estatística básica
-Conceitos
-Tipos de análises
-Aplicações da estatística
+Conceitos  
+
+Tipos de análises  
+
+Aplicações da estatística  
   
